@@ -1,4 +1,4 @@
-# Lezir - Angular Landing Page Template
+# StormandKraft Angular Landing Page Template
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
